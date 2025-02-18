@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Booking App</string>
+    <string name="depart_station">Gare de départ</string>
+    <string name="arrived_station">Gare d\'arrivée</string>
+    <string name="de">De</string>
+    <string name="à">À</string>
+    <string name="one_way">Aller Simple</string>
+    <string name="round_trip">Aller-Retour</string>
+    <string name="who_travel">Qui voyage?</string>
+    <string name="depart_date">Date aller</string>
+    <string name="arrived_date">Date retour</string>
+    <string name="depart">Départ</string>
+    <string name="arrived">Arrivée</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Rechercher</string>
+    <string name="home">Accueil</string>
+    <string name="reserve">Réserver</string>
+    <string name="my_flights">Mes voyages</string>
+    <string name="register">S\'enregistrer</string>
+    <string name="plus">Plus</string>
+    <string name="reservation_success">Réservation est réussie</string>
+    <string name="all_stations">Toutes les gares</string>
+    <string name="search_flight">Recherche les vols</string>
+    <string name="depart_ride">Trajet aller</string>
+    <string name="arrived_ride">Trajet retour</string>
+    <string name="see_a_ride">Voir un trajet</string>
+    <string name="fill_gap">Entrer les données</string>
+    <string name="solution">Solution</string>
+    <string name="duree">Durée</string>
+    <string name="different_destination">Sélectionner des distination différentes</string>
+    <string name="arrived_date_bigger_than_depart_date">la date d\'arrivée doit etre plus grand que la date départ</string>
+    <string name="depart_date_bigger_than_current_date">la date de départ doit etre plus grand que la date d\'aujourd\'hui</string>
+    <string name="where_you_want_to_go">Où voulez-vous aller ?</string>
+</resources>
